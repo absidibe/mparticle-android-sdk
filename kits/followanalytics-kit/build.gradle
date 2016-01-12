@@ -1,0 +1,2 @@
+apply from: '../../kit-common.gradle'
+apply from: '../../maven.gradle'

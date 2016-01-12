@@ -10,4 +10,5 @@ dependencies {
     compile ('com.mparticle:android-kahuna-kit:' + mp_sdk_version)
     compile ('com.mparticle:android-kochava-kit:' + mp_sdk_version)
     compile ('com.mparticle:android-localytics-kit:' + mp_sdk_version)
+    compile ('com.mparticle:android-followanalytics-kit:' + mp_sdk_version)
 }

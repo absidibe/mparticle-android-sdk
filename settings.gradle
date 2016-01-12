@@ -1,12 +1,13 @@
-include (
-    ':kits:kahuna-kit',
-    ':kits:adjust-kit',
-    ':kits:comscore-kit',
-    ':kits:kochava-kit',
-    ':kits:branch-kit',
-    ':kits:appboy-kit',
-    ':kits:localytics-kit',
-    ':kits:flurry-kit',
-    ':kits:all-kits',
-    ':sdk'
+include(
+        ':kits:kahuna-kit',
+        ':kits:adjust-kit',
+        ':kits:comscore-kit',
+        ':kits:kochava-kit',
+        ':kits:branch-kit',
+        ':kits:appboy-kit',
+        ':kits:localytics-kit',
+        ':kits:flurry-kit',
+        ':kits:all-kits',
+        ':kits:followanalytics-kit',
+        ':sdk'
 )
